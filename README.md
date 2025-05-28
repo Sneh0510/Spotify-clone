@@ -14,7 +14,7 @@ This is a responsive **Spotify Clone** built using **React.js** and **Tailwind C
 
 ## 📸 Screenshots
 
-(Add screenshots here by uploading images to your repo or linking externally.)
+![image](https://github.com/user-attachments/assets/01ebd22f-8c3d-4b84-9a97-f3bab92c43cc)
 
 ---
 
