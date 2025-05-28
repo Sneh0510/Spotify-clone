@@ -32,8 +32,6 @@ This is a responsive **Spotify Clone** built using **React.js** and **Tailwind C
 
 - **React.js** – UI Components & State Management  
 - **Tailwind CSS** – Utility-first CSS framework  
-- **React Icons** – Icons used across the app  
-- **Vite / Create React App** – (mention whichever you used)
 
 ---
 
