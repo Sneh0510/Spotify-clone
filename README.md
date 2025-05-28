@@ -8,7 +8,7 @@ This is a responsive **Spotify Clone** built using **React.js** and **Tailwind C
 
 ## 🔗 Live Demo
 
-🌐 Check out the live version here: [Spotify Clone Live](https://your-live-link.com)
+🌐 Check out the live version here: [Spotify Clone Live]([https://your-live-link.com](https://spotify-clone-henna-tau.vercel.app/))
 
 ---
 
