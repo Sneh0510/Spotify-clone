@@ -55,6 +55,9 @@ npm run dev   # For Vite
 4. Open in Browser
 Go to: http://localhost:5173
 
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 
 
